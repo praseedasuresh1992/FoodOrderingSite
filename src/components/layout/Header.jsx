@@ -72,7 +72,7 @@ export default function Header() {
           </button>
         </div>
 
-        Mobile menu
+        {/* Mobile menu */}
         {isOpen && (
           <div className="border-t border-slate-200 py-4 md:hidden">
             <nav className="flex flex-col gap-2">

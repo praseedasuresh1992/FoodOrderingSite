@@ -150,7 +150,7 @@ export default function WelcomePage() {
             className="
           
               shrink-0
-              pt-25
+              pt-15
               mx-auto
               text-center
               text-2xl
@@ -167,6 +167,7 @@ export default function WelcomePage() {
               md:text-3xl
 
               lg:text-4xl
+              lg:pb-10
             "
           >
             {restaurantData.name}
