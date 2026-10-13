@@ -145,7 +145,7 @@ export default function WelcomePage() {
               Pinned right under the header — not inside the centered
               block below — so it stays at the top regardless of how
               that block is aligned. */}
-              <div className="  h-5 ">
+              <div className="shrink-0">
           <p
             className="
           
@@ -168,6 +168,8 @@ export default function WelcomePage() {
 
               lg:text-4xl
               lg:pb-10
+
+              
             "
           >
             {restaurantData.name}

@@ -34,7 +34,7 @@ export default function Header() {
             to="/"
             className="text-xl font-bold text-slate-900"
           >
-            Grand<span className="text-amber-500">Azure</span>
+            Grand<span className="text-amber-500 p-5">Azure</span>
           </Link>
 
           {/* Desktop */}
