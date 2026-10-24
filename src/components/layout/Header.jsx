@@ -114,7 +114,7 @@ export default function Header() {
 
             {/* Admin Icon */}
             <Link
-              to="/admin/login"
+              to="/login"
               aria-label="Admin login"
               title="Admin Login"
               className="flex h-9 w-9 items-center justify-center rounded-full border border-slate-200 text-slate-700 transition hover:border-amber-500 hover:bg-amber-50 hover:text-amber-600 sm:h-10 sm:w-10"
